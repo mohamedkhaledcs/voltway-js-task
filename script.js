@@ -305,3 +305,5 @@ heroSection.appendChild(heroImage);
 mainPage.appendChild(navBar);
 mainPage.appendChild(heroSection);
 document.body.appendChild(mainPage);
+
+
