@@ -1,4 +1,4 @@
-alert("JS WORKING"); 
+
 
 let fontLink = document.createElement("link");
 
