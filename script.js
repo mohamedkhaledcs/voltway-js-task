@@ -7,8 +7,6 @@ fontLink.href =
     "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap";
 
 document.head.appendChild(fontLink);
-
-
 document.body.style.margin = "0";
 document.body.style.padding = "0";
 document.body.style.fontFamily = "Inter, sans-serif";
